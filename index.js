@@ -21,10 +21,11 @@ function  switchOnCharmFromTip(tip){
       break;
       
       case 'not as generous';
-      retrun 'Thank you';
+      return 'Thank you';
       break;
       
-      case 
+      case 'thanks for everything'
+      return 
       
       
   
