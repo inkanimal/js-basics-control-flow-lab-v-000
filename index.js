@@ -7,7 +7,8 @@ function scuberGreetingForFeet(someValue){
     return result
   } 
   elsif (someValue > 2000){
-    result = ''
+    result = 'I will gladly take your thirty bucks.';
+    return result
   }
 }
   
