@@ -1,15 +1,25 @@
 // Write your code in this file!
 function scuberGreetingForFeet(someValue){
-  let result1, result2, result3
+  let result
   if (someValue <= 400) {
-    result1 = 'This one is on me!';
+    result = 'This one is on me!';
     return result1
   } 
-  elsif (someValue > 2000  ){
-    result2 = 'I will gladly take your thirty bucks.'
+}
+  
+  function scuberGreetingForFeet(someValue){
+  let result
+  if (someValue > 2000) {
+    result = 'I will gladly take your thirty bucks.';
+    return result
+  } 
   }
+  
+  function scuberGreetingForFeet(someValue){
+  let result
   eslif (someValue > 2501){
     result3 = 'No can do.'
+    return result
   }
 }
   
