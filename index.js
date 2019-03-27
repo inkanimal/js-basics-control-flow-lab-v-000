@@ -1,8 +1,8 @@
 // Write your code in this file!
 function scuberGreetingForFeet(someValue){
-  let result
+  let result1, result2, result3
   if (someValue <= 400) {
-    result = 'This one is on me!';
+    result1 = 'This one is on me!';
   }
   return result
 }
